@@ -1,0 +1,22 @@
+T-Shirts Dataset
+https://www.kaggle.com/datasets/sunnykusawa/tshirts
+
+About Dataset:--
+This data set is collected from online ecommerce site and its very raw and junk data as you can get in industries for your data science project.
+
+Applying your image preprocessing skill on such data will help you to understand the real time problems and challenges in industry projects.
+
+It has some junk, partial as well as multiple t-shirt views in single image.
+
+You can perform different task on this data set like,
+Beginner
+
+Resize all images to 48 * 48 size
+Convert all images to gray scale images
+Intermediate
+Perform image masking on all images
+you can also develop classifier to detect given image is t-shirt or not
+Advance
+Try to cluster tshirt images
+try if you can cluster based on color
+try if you can cluster based on full, partial, nultiple, and junk tshirt images
